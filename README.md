@@ -2,5 +2,5 @@
 A Discord Nitro generator, generates random nitro codes for you
 
 Requirements:
-String
+String,
 Random
